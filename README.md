@@ -1,1 +1,1 @@
-# trabajodeprogramaciongrupal
+# trabajo de programacion grupal
